@@ -1,0 +1,45 @@
+li a{
+    color:bisque;
+    text-decoration: none;
+    list-style-type:disc;
+    word-spacing: 21px;
+}
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style-type: none;
+    line-height: 70px;
+    font-size: larger;
+    background-color:black;
+    height: 70px;
+    font-weight: bolder;
+}
+li{
+    float: left;
+}
+a{
+    display: block;
+    padding-left: 70px;
+}
+ul div.buttons{
+    float: right;
+    padding-right: 50px;
+    display: block;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+:hover.home{
+    color: aqua;
+}
+:hover.contact{
+    color: aqua;
+}
+:hover.guide{
+    color: aqua;
+}
+:hover.information{
+    color: aqua;
+}
+:hover.Visit-Site{
+    color:chartreuse;
+
+}

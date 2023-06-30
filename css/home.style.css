@@ -1,0 +1,56 @@
+h1{
+    text-align: center;
+    padding-top: 15%;
+    font-size: 70px;
+}
+ul{
+    display: block;
+    height: 50px;
+    margin: 0%;
+    padding: 0%;
+    list-style-type: none;
+    background-color: black;
+    color: antiquewhite;
+    padding-top: 15px;
+    font-style:oblique;
+}
+li{
+    float: left;
+    padding-left: 20px;
+    line-height: 13px;
+}
+h3{
+    display: block;
+    height: 30px;
+    margin: 0%;
+    padding: 0%;
+    list-style-type: none;
+}
+.buttons{
+    float: right;
+    padding-right:5% ;
+    word-spacing: 12px;
+    word-spacing: 12px;
+    background-color: transparent;
+}
+
+a{
+    text-decoration: none;
+    color: antiquewhite;
+    font-size: larger;
+}
+:hover.job-role{
+    color: aqua;
+}
+:hover.partime{
+    color: aqua;
+}
+:hover.fulltime{
+    color: aqua;
+}
+:hover.payments{
+    color: aqua;
+}
+:hover h1{
+    color: red;
+}
